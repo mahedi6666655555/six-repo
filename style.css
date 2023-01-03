@@ -4,3 +4,21 @@ p{
 h4{
     color: goldenrod;
 }
+.init {
+
+margin-top  :100px ;
+margin-left: 60px;
+
+
+}
+.blog{
+    color: red;
+    background-color: green;
+    width: 60%;
+    height: 80px;
+
+    border-radius: 17
+    px;
+    
+    
+}
